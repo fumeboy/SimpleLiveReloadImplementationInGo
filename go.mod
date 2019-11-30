@@ -1,4 +1,4 @@
-module SimpleLiveReloadImplementationInGo
+module github.com/fumeboy/SimpleLiveReloadImplementationInGo
 
 go 1.12
 
